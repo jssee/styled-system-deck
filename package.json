@@ -1,0 +1,12 @@
+{
+  "name": "styled-system-deck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jssee/styled-system-deck.git",
+  "author": "Jesse Hoyos <jesse@mojotech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grid-styled": "^5.0.2",
+    "mdx-deck": "^1.5.10"
+  }
+}
