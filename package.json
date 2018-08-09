@@ -5,6 +5,9 @@
   "repository": "git@github.com:jssee/styled-system-deck.git",
   "author": "Jesse Hoyos <jesse@mojotech.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
   "dependencies": {
     "grid-styled": "^5.0.2",
     "mdx-deck": "^1.5.10"
